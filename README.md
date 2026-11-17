@@ -27,8 +27,8 @@
 |:---|:---|
 | **Student Name** | Deepak Godugu |
 | **College** | Aurora University |
-| **Registration Number** | YOUR REGISTRATION NUMBER |
-| **Section** | YOUR SECTION |
+| **Registration Number** | 252U1R6079 |
+| **Section** | AIML-2B |
 | **Course** | Backend Development Fundamentals |
 | **Lab Number** | Lab 04 |
 | **Project Title** | Registration, Login and JWT |
