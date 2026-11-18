@@ -25,10 +25,10 @@
 
 | Details | Information |
 |:---|:---|
-| **Student Name** | Deepak Godugu |
+| **Student Name** | srijani yerram |
 | **College** | Aurora University |
-| **Registration Number** | 252U1R6079 |
-| **Section** | AIML-2B |
+| **Registration Number** | 252U1R1232 |
+| **Section** | CSE-2E |
 | **Course** | Backend Development Fundamentals |
 | **Lab Number** | Lab 04 |
 | **Project Title** | Registration, Login and JWT |
@@ -186,9 +186,9 @@ Request Body:
 
 ```json
 {
-    "username": "deepak123",
-    "name": "Deepak",
-    "password": "deepak@123"
+    "username": "srijani123",
+    "name": "srijani",
+    "password": "srijani@123"
 }
 ```
 
@@ -212,8 +212,8 @@ Request Body:
 
 ```json
 {
-    "username": "deepak123",
-    "password": "deepak@123"
+    "username": "srijani123",
+    "password": "srijani@123"
 }
 ```
 
@@ -291,24 +291,24 @@ The following test cases were performed to verify the application.
 
 ### 1. Successful User Registration
 
-![Registration Success](https://github.com/deepakgodugu0568/expressnode_lab4/blob/2ba4ee8004e56cfad00ddebad25c074d2bc13e43/screenshots/user%20register%20sucessfully.png)
+![Registration Success](https://github.com/SrijaniYerram-81/express_node-lab4/blob/f687fcf643fde1647ce65a57640f87aab4e5834b/screenshots/register%20and%20login%20successful.png)
 
 ### 2. user already exits
 
-![Registration Failure](https://github.com/deepakgodugu0568/expressnode_lab4/blob/2ba4ee8004e56cfad00ddebad25c074d2bc13e43/screenshots/user%20already%20exits.png)
+![Registration Failure](https://github.com/SrijaniYerram-81/express_node-lab4/blob/f687fcf643fde1647ce65a57640f87aab4e5834b/screenshots/duplicate%20user.png)
 
 ### 3. Successful User Login
 
-![Login Success](https://github.com/deepakgodugu0568/expressnode_lab4/blob/2ba4ee8004e56cfad00ddebad25c074d2bc13e43/screenshots/jwt%20token.png)
+![Login Success](https://github.com/SrijaniYerram-81/express_node-lab4/blob/f687fcf643fde1647ce65a57640f87aab4e5834b/screenshots/successful%20login.png)
 
 ### 4. Invalid Login
 
-![Login Failure](https://github.com/deepakgodugu0568/expressnode_lab4/blob/2ba4ee8004e56cfad00ddebad25c074d2bc13e43/screenshots/invalid%20user.png)
-![Login Failure](https://github.com/deepakgodugu0568/expressnode_lab4/blob/2ba4ee8004e56cfad00ddebad25c074d2bc13e43/screenshots/invalid%20password.png)
+![Login Failure](https://github.com/SrijaniYerram-81/express_node-lab4/blob/f687fcf643fde1647ce65a57640f87aab4e5834b/screenshots/wrong%20password.png)
+![Login Failure](https://github.com/SrijaniYerram-81/express_node-lab4/blob/f687fcf643fde1647ce65a57640f87aab4e5834b/screenshots/invalid%20user.png)
 
 ### 5. JWT Token Verification
 
-![JWT Verification](https://github.com/deepakgodugu0568/expressnode_lab4/blob/2ba4ee8004e56cfad00ddebad25c074d2bc13e43/screenshots/decoding%20jwt%20token.png)
+![JWT Verification](https://github.com/SrijaniYerram-81/express_node-lab4/blob/f687fcf643fde1647ce65a57640f87aab4e5834b/screenshots/decoding%20jwt.png)
 
 ---
 
