@@ -8,6 +8,7 @@ const db = new sqlite3.Database("./users.db", (err) => {
     }
 });
 
+
 db.serialize(() => {
     db.run(`
         CREATE TABLE IF NOT EXISTS users (
@@ -20,3 +21,4 @@ db.serialize(() => {
 });
 
 module.exports = db;
+*
